@@ -230,7 +230,7 @@ Estudiante estudiante1 = new Estudiante() {
 };
 
 Console.WriteLine($"Nombres del estudiante 1: {estudiante1.nombres}");
-//estudiante1.Calificaciones();
+estudiante1.Calificaciones();
 
 
 
